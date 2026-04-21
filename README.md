@@ -1,4 +1,4 @@
-# ⚠️ ACADEMIC RESEARCH DATASET — FOR DETECTING GAMBLING SPAM
+# ACADEMIC RESEARCH DATASET - FOR DETECTING GAMBLING SPAM
 
 **This repository contains a machine learning research dataset for DETECTING and FILTERING online gambling promotions on Indonesian social media. This is NOT a gambling website or promotional content.**
 
@@ -6,9 +6,9 @@
 
 ## Research Context
 
-This dataset is created for **academic research** in harmful content detection and multimodal machine learning. It is intended to help platforms and researchers develop AI systems to identify and remove gambling spam — not to promote gambling.
+This dataset is created for **academic research** in harmful content detection and multimodal machine learning. It is intended to help platforms and researchers develop AI systems to identify and remove gambling spam - not to promote gambling.
 
-- **Research Paper:** A Multimodal Late-Fusion Transformer for Detecting Online Gambling Promotions on Indonesian Social Media *(In preparation)*
+- **Research Paper:** Unpublished research project
 - **License:** CC BY 4.0 (Academic use)
 - **Institution:** Institut Teknologi Sepuluh Nopember
 
@@ -17,14 +17,14 @@ This dataset is created for **academic research** in harmful content detection a
 - **Purpose:** Train ML models to identify gambling promotions vs. legitimate content
 - **Content:** 5,028 annotated social media posts (gambling spam samples + non-gambling samples)
 - **Use Case:** Binary classification for content moderation systems
-- **Precedent:** Similar to spam detection datasets, phishing email datasets, malware analysis datasets — standard in cybersecurity and NLP research
+- **Precedent:** Similar to spam detection datasets, phishing email datasets, malware analysis datasets - standard in cybersecurity and NLP research
 
 ## What This Dataset Is NOT
 
-- ❌ This is NOT a gambling website
-- ❌ This is NOT promotional content for gambling
-- ❌ This is NOT intended for commercial gambling operations
-- ❌ This does NOT encourage or facilitate gambling
+- This is NOT a gambling website
+- This is NOT promotional content for gambling
+- This is NOT intended for commercial gambling operations
+- This does NOT encourage or facilitate gambling
 
 ---
 
@@ -91,7 +91,8 @@ Posts were collected from Facebook, TikTok, and X using various gambling-related
 If you use this dataset in your research, please cite:
 
 > Ekaputra, D. R. (2026). *Indonesian Online Gambling Promotion Multimodal Dataset* [Data set]. GitHub. https://github.com/danzarchive/indonesian-gambling-multimodal-dataset
-> > **Note:** This dataset is part of an unpublished research project at Institut Teknologi Sepuluh Nopember.
+> 
+> **Note:** This dataset is part of an unpublished research project at Institut Teknologi Sepuluh Nopember.
 
 ## License
 
