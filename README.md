@@ -1,4 +1,34 @@
-# Indonesian Online Gambling Promotion Multimodal Dataset
+# ⚠️ ACEMIC RESEARCH DATASET — FOR DETECTING GAMBLING SPAM
+
+**This repository contains a machine learning research dataset for DETECTING and FILTERING online gambling promotions on Indonesian social media. This is NOT a gambling website or promotional content.**
+
+---
+
+## Research Context
+
+This dataset is created for **academic research** in harmful content detection and multimodal machine learning. It is intended to help platforms and researchers develop AI systems to identify and remove gambling spam — not to promote gambling.
+
+- **Research Paper:** A Multimodal Late-Fusion Transformer for Detecting Online Gambling Promotions on Indonesian Social Media *(In preparation)*
+- **License:** CC BY 4.0 (Academic use)
+- **Institution:** Institut Teknologi Sepuluh Nopember
+
+## What This Dataset Is
+
+- **Purpose:** Train ML models to identify gambling promotions vs. legitimate content
+- **Content:** 5,028 annotated social media posts (gambling spam samples + non-gambling samples)
+- **Use Case:** Binary classification for content moderation systems
+- **Precedent:** Similar to spam detection datasets, phishing email datasets, malware analysis datasets — standard in cybersecurity and NLP research
+
+## What This Dataset Is NOT
+
+- ❌ This is NOT a gambling website
+- ❌ This is NOT promotional content for gambling
+- ❌ This is NOT intended for commercial gambling operations
+- ❌ This does NOT encourage or facilitate gambling
+
+---
+
+## Indonesian Online Gambling Promotion Multimodal Dataset
 
 A multimodal dataset of 5,028 annotated social media posts for detecting online gambling promotions in Indonesia, containing paired images and Indonesian text captions collected from Facebook, TikTok, and X.
 
@@ -35,8 +65,43 @@ data/
 
 ## Collection Method
 
-Posts were collected from Facebook, TikTok, and X using various gambling-related keywords, including but not limited to "Judi Online," "Judol," and "Slot Gacor." After deduplication and filtering, the authors manually annotated each sample as gambling promotion (1) or non-gambling (0).
+Posts were collected from Facebook, TikTok, and X using various gambling-related keywords for research purposes only. After deduplication and filtering, the authors manually annotated each sample as gambling promotion (1) or non-gambling (0).
+
+## Ethics Statement
+
+- All data was collected from publicly available sources
+- No private or personal data was intentionally collected  
+- The dataset is intended solely for academic and research purposes in content moderation
+- This dataset follows standard practices for research datasets in machine learning and cybersecurity
+
+## Intended Use
+
+**This dataset is intended for:**
+- Machine learning research
+- Content moderation system development
+- Harmful content detection research
+
+**This dataset is NOT intended for:**
+- Promoting or facilitating gambling
+- Commercial gambling operations
+- Redistributing gambling content for promotional purposes
+
+## Citation
+
+If you use this dataset in your research, please cite:
+
+> Ekaputra, D. R. (2026). *Indonesian Online Gambling Promotion Multimodal Dataset* [Data set]. GitHub. https://github.com/danzarchive/indonesian-gambling-multimodal-dataset
+> 
+> **Note:** This dataset is part of an unpublished research project at Institut Teknologi Sepuluh Nopember.
 
 ## License
 
-This dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+This dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license for academic and research use.
+
+**Note:** This license does not grant permission to use the dataset for illegal activities or gambling promotion.
+
+---
+
+## For GitHub Support
+
+This repository contains a research artifact for machine learning classification of harmful content. It is analogous to phishing detection datasets, spam classification datasets, and malware analysis datasets commonly hosted on GitHub for academic research. The dataset is not intended to promote gambling but to help detect and filter gambling spam on social media platforms.
