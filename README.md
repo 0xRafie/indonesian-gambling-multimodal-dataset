@@ -1,4 +1,4 @@
-# ⚠️ ACEMIC RESEARCH DATASET — FOR DETECTING GAMBLING SPAM
+# ⚠️ ACADEMIC RESEARCH DATASET — FOR DETECTING GAMBLING SPAM
 
 **This repository contains a machine learning research dataset for DETECTING and FILTERING online gambling promotions on Indonesian social media. This is NOT a gambling website or promotional content.**
 
@@ -91,8 +91,7 @@ Posts were collected from Facebook, TikTok, and X using various gambling-related
 If you use this dataset in your research, please cite:
 
 > Ekaputra, D. R. (2026). *Indonesian Online Gambling Promotion Multimodal Dataset* [Data set]. GitHub. https://github.com/danzarchive/indonesian-gambling-multimodal-dataset
-> 
-> **Note:** This dataset is part of an unpublished research project at Institut Teknologi Sepuluh Nopember.
+> > **Note:** This dataset is part of an unpublished research project at Institut Teknologi Sepuluh Nopember.
 
 ## License
 
