@@ -90,7 +90,7 @@ Posts were collected from Facebook, TikTok, and X using various gambling-related
 
 If you use this dataset in your research, please cite:
 
-> Ekaputra, D. R. (2026). *Indonesian Online Gambling Promotion Multimodal Dataset* [Data set]. GitHub. https://github.com/danzarchive/indonesian-gambling-multimodal-dataset
+> Ekaputra, D. R. (2026). *Indonesian Online Gambling Promotion Multimodal Dataset* [Data set]. GitHub. https://github.com/0xRafie/indonesian-gambling-multimodal-dataset
 > 
 > **Note:** This dataset is part of an unpublished research project at Institut Teknologi Sepuluh Nopember.
 
