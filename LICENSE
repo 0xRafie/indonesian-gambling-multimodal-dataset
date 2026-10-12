@@ -1,0 +1,13 @@
+Annotations and metadata (dataset.csv)
+Copyright (c) 2026 Danish Rafie Ekaputra
+
+Licensed under the Creative Commons Attribution-NonCommercial 4.0 International
+License (CC BY-NC 4.0). To view a copy of this license, visit
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Images and captions (image/ and the text_caption column)
+
+Collected from public posts on Facebook, TikTok, and X. They remain the property
+of their original owners, are not covered by the license above, and are included
+only for non-commercial research. Owners can request removal by opening an issue
+in this repository.

@@ -9,7 +9,7 @@
 This dataset is created for **academic research** in harmful content detection and multimodal machine learning. It is intended to help platforms and researchers develop AI systems to identify and remove gambling spam - not to promote gambling.
 
 - **Research Paper:** Unpublished research project
-- **License:** CC BY 4.0 (Academic use)
+- **License:** CC BY-NC 4.0 (annotations and metadata)
 - **Institution:** Institut Teknologi Sepuluh Nopember
 
 ## What This Dataset Is
@@ -96,7 +96,9 @@ If you use this dataset in your research, please cite:
 
 ## License
 
-This dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license for academic and research use.
+The annotations and metadata (`dataset.csv`) are released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and adapt them for non-commercial purposes, with attribution.
+
+The images and captions come from public posts on Facebook, TikTok, and X. They remain the property of their original owners and are included only for non-commercial research. If you own a post in this dataset and want it removed, open an issue and it will be taken down.
 
 **Note:** This license does not grant permission to use the dataset for illegal activities or gambling promotion.
 
